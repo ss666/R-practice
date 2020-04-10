@@ -135,11 +135,3 @@ ggplotly(p2)
 ggplotly(fig2)
 ggplotly(fig3)
 ggplotly(fig4)
-
-
-
-
-
-
-
-
