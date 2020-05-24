@@ -283,7 +283,7 @@ dfEval <- data.frame(TPRate= tpr, row.names=c('Reduced PCA','Deleted Dataset','Z
   
 #III CLASSIFCATION (implemented in Weka)
 # Classifiers including NaiveBayes, k-NN, decision tree, etc, are used.
-# Evaluation metrics, such as precison, recall, F1 score, false positive rate, kappa statistic, MAE, RAE, RMSE
+# Evaluation metrics, such as precison, recall, F1 score, false positive rate, kappa statistic, MAE, RAE, RMSE...
 
 #knitr::kable() is used to in rmd
 
